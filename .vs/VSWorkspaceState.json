@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Resturant_System",
+    "\\Resturant_System\\Controllers",
+    "\\Resturant_System\\Models",
+    "\\Resturant_System\\Views",
+    "\\Resturant_System\\Views\\Admin",
+    "\\Resturant_System\\Views\\User"
+  ],
+  "SelectedNode": "\\Resturant_System\\Controllers\\AdminController.cs",
+  "PreviewInSolutionExplorer": false
+}

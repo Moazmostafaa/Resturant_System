@@ -1,0 +1,221 @@
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\ApplicationInsights.config
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Resturant_System.dll.config
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Resturant_System.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Resturant_System.pdb
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Antlr3.Runtime.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\EntityFramework.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\EntityFramework.SqlServer.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AI.Web.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Newtonsoft.Json.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Owin.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.Helpers.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.Mvc.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.Optimization.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.Razor.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.WebPages.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.WebPages.Razor.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\WebGrease.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.Helpers.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.Mvc.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.Optimization.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.Razor.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.WebPages.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\System.Web.WebPages.Razor.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Antlr3.Runtime.pdb
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Newtonsoft.Json.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\EntityFramework.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\EntityFramework.SqlServer.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\bin\Microsoft.AI.Web.xml
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\obj\Debug\Resturant_System.dll
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\obj\Debug\Resturant_System.pdb
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\obj\Debug\Resturant_System.Migrations.test.resources
+C:\Users\Muhammed foaad\Desktop\SA2\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csproj.GenerateResource.Cache
+F:\New folder (3)\Resturant_System\Resturant_System\bin\ApplicationInsights.config
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Resturant_System.dll.config
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Resturant_System.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Resturant_System.pdb
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Antlr3.Runtime.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\EntityFramework.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\EntityFramework.SqlServer.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AI.Agent.Intercept.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AI.DependencyCollector.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AI.Web.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AI.WindowsServer.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.ApplicationInsights.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Core.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Cookies.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Facebook.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Google.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.OAuth.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Twitter.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Web.Infrastructure.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Newtonsoft.Json.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Owin.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.Helpers.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.Mvc.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.Optimization.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.Razor.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.WebPages.Deployment.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.WebPages.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.WebPages.Razor.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\WebGrease.dll
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.Helpers.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.Mvc.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.Optimization.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.Razor.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.WebPages.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.WebPages.Deployment.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\System.Web.WebPages.Razor.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Antlr3.Runtime.pdb
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Newtonsoft.Json.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\EntityFramework.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\EntityFramework.SqlServer.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Core.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Facebook.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Cookies.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.OAuth.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Google.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Twitter.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.ApplicationInsights.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AI.DependencyCollector.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AI.WindowsServer.xml
+F:\New folder (3)\Resturant_System\Resturant_System\bin\Microsoft.AI.Web.xml
+F:\New folder (3)\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csprojAssemblyReference.cache
+F:\New folder (3)\Resturant_System\Resturant_System\obj\Debug\Resturant_System.Migrations.test.resources
+F:\New folder (3)\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csproj.GenerateResource.cache
+F:\New folder (3)\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csproj.CoreCompileInputs.cache
+F:\New folder (3)\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csproj.CopyComplete
+F:\New folder (3)\Resturant_System\Resturant_System\obj\Debug\Resturant_System.dll
+F:\New folder (3)\Resturant_System\Resturant_System\obj\Debug\Resturant_System.pdb
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\ApplicationInsights.config
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Resturant_System.dll.config
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Resturant_System.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Resturant_System.pdb
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Antlr3.Runtime.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\EntityFramework.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\EntityFramework.SqlServer.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AI.Agent.Intercept.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AI.DependencyCollector.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AI.Web.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AI.WindowsServer.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.ApplicationInsights.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Core.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Cookies.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Facebook.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Google.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.OAuth.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Twitter.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Web.Infrastructure.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Newtonsoft.Json.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Owin.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.Helpers.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.Mvc.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.Optimization.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.Razor.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.WebPages.Deployment.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.WebPages.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.WebPages.Razor.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\WebGrease.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.Helpers.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.Mvc.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.Optimization.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.Razor.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.WebPages.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.WebPages.Deployment.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\System.Web.WebPages.Razor.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Antlr3.Runtime.pdb
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Newtonsoft.Json.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\EntityFramework.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\EntityFramework.SqlServer.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Core.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Facebook.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Cookies.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.OAuth.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Google.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.Twitter.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.ApplicationInsights.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AI.DependencyCollector.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AI.WindowsServer.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\bin\Microsoft.AI.Web.xml
+F:\بروجكت 1\Resturant_System\Resturant_System\obj\Debug\Resturant_System.Migrations.test.resources
+F:\بروجكت 1\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csproj.GenerateResource.cache
+F:\بروجكت 1\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csproj.CoreCompileInputs.cache
+F:\بروجكت 1\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csproj.CopyComplete
+F:\بروجكت 1\Resturant_System\Resturant_System\obj\Debug\Resturant_System.dll
+F:\بروجكت 1\Resturant_System\Resturant_System\obj\Debug\Resturant_System.pdb
+F:\بروجكت 1\Resturant_System\Resturant_System\obj\Debug\Resturant_System.csprojAssemblyReference.cache
