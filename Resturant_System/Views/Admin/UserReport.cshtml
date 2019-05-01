@@ -24,6 +24,7 @@
             @Html.DisplayNameFor(model => model.Phone)
         </th>
         <th></th>
+        
     </tr>
 
     @foreach (var item in Model)
@@ -46,6 +47,16 @@
                 @Html.DisplayFor(modelItem => item.Phone)
             </td>
             <td>
+                 @if (item.blocked == true)
+            {
+            <button type="button" class="btn btn-warning" id="block" onclick="BlockUser(@item.Id)">Block</button>
+            <button type="button" class="btn btn-success" style="display:none;" id="unblock" onclick="UNBlockUser(@item.Id)">unBlock</button>
+            }
+            else
+            {
+            <button type="button" class="btn btn-warning" style="display:none;"id="block" onclick="BlockUser(@item.Id)">Block</button>
+            <button type="button" class="btn btn-success" id="unblock" onclick="UNBlockUser(@item.Id)">unBlock</button>
+            }
                 <button type="button" class="btn btn-danger" id="delete" onclick="DeleteUser(@item.Id)">Delete</button>
             </td>
         </tr>
