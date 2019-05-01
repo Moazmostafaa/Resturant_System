@@ -142,6 +142,25 @@ namespace Resturant_System.Controllers
             ViewBag.CategoryID = new SelectList(db.Categories, "Id", "Name", items.CategoryID);
             return View(items);
         }
+        // GET: Admin/Delete/5
+        [HttpGet]
+        public ActionResult Delete(int id)
+        {
+            int ids = Convert.ToInt32(Session["Id"]);
+            if (ids == null || Session["Id"] == null)
+            {
+                return RedirectToAction("Login", "Account");
+            }
+            else
+            {
+                Items items = db.Items.Single(x => x.Id == id);
+                db.Items.Remove(items);
+                db.SaveChanges();
+                return Json(new { result = 1 }, JsonRequestBehavior.AllowGet);
+            }
+        }
+
+
 
         
     }
