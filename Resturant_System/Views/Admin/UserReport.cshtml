@@ -94,6 +94,24 @@
                 })
             }
         }
+        function UNBlockUser(id) {
+            if (confirm("Are you sure?!")) {
+                $.ajax({
+                    type: "GET",
+                    url: "/Admin/UnBlockUser/" + id,
+                    success: function (response) {
+
+                        if (response.result == 1) {
+                            $("#unblock").hide();
+                            $("#block").show();
+                        }
+                        else {
+                            alert("Can't unBlock Account")
+                        }
+                    }
+                })
+            }
+        }
 
     </script>
 
