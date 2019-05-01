@@ -1,0 +1,84 @@
+﻿@model IEnumerable<Resturant_System.Models.Order_items>
+
+@{
+    ViewBag.Title = "MyOrders";
+}
+
+
+<h2>My Orders</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.items.category.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.items.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.items.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.items.Description)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr id="record_@item.order_id">
+            <td>
+                @Html.DisplayFor(modelItem => item.items.category.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.items.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.items.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.items.Description)
+            </td>
+
+            <td>
+
+                <button type="button" class="btn btn-danger" id="delete" onclick="DeleteItem(@item.order_id)">Delete</button>
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+
+
+    <script>
+        function DeleteItem(id) {
+            if (confirm("Are you sure?!")) {
+                $.ajax({
+                    type: "GET",
+                    url: "/User/DeleteOrder/" + id,
+                    success: function (response) {
+                        if (response.result == 1) {
+                            alert("Record Removed")
+                            $("#record_" + id).remove();
+                            
+                        }
+                        else {
+                            alert("Can't unBlock Account")
+                        }
+
+                    }
+                })
+            }
+        }
+
+    </script>
+
+    }
+
+
