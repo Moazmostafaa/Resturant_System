@@ -58,6 +58,24 @@ namespace Resturant_System.Controllers
             ViewBag.CategoryID = new SelectList(db.Categories, "Id", "Name", items.CategoryID);
             return View(items);
         }
+        
+        
+        //GET: Admin/DeleteUser/id
+        public ActionResult DeleteUser(int id)
+        {
+            int ids = Convert.ToInt32(Session["Id"]);
+            if (ids == null || Session["Id"] == null)
+            {
+                return RedirectToAction("Login", "Account");
+            }
+            else
+            {
+                User user = db.Users.Single(x => x.Id == id);
+                db.Users.Remove(user);
+                db.SaveChanges();
+                return Json(new { result = 1 }, JsonRequestBehavior.AllowGet);
+            }
+        }
 
 
     }
