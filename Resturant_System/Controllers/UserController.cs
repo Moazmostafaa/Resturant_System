@@ -74,3 +74,28 @@ namespace Resturant_System.Controllers
         }
     }
 }
+ public ActionResult AddOrderItem(int ItemId)
+        {
+            int id = Convert.ToInt32(Session["Id"]);
+            if (id == null || Session["Id"] == null)
+            {
+                return RedirectToAction("Login", "Account");
+            }
+            else
+            {
+
+                var order = new Order()
+                {
+                    Date = DateTime.Now.ToString(),
+                    user_id = Int32.Parse(Session["Id"].ToString())
+                };
+                db.Orders.Add(order);
+                Order_items oi = new Order_items();
+                oi.order_id = order.Id;
+                oi.item_id = ItemId;
+                db.Order_items.Add(oi);
+                db.SaveChanges();
+                TempData["OrderID"] = order.Id;
+                return RedirectToAction("Index");
+            }
+        }
