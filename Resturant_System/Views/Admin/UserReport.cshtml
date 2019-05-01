@@ -76,6 +76,25 @@
                 })
             }
         }
+        function BlockUser(id) {
+            if (confirm("Are you sure?!")) {
+                $.ajax({
+                    type: "GET",
+                    url: "/Admin/BlockUser/" + id,
+                    success: function (response) {
+
+                        if (response.result == 1) {
+                            $("#block").hide();
+                            $("#unblock").show();
+                        }
+                        else {
+                            alert("Can't Block Account")
+                        }
+                    }
+                })
+            }
+        }
+
     </script>
 
 
