@@ -1,0 +1,130 @@
+﻿@model IEnumerable<Resturant_System.Models.User>
+
+@{
+    ViewBag.Title = "UserReport";
+}
+
+<h2>User Report</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.userName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.firstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.lastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.userName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.firstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.lastName)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+            @if (item.blocked == true)
+            {
+            <button type="button" class="btn btn-warning" id="block" onclick="BlockUser(@item.Id)">Block</button>
+            <button type="button" class="btn btn-success" style="display:none;" id="unblock" onclick="UNBlockUser(@item.Id)">unBlock</button>
+            }
+            else
+            {
+            <button type="button" class="btn btn-warning" style="display:none;"id="block" onclick="BlockUser(@item.Id)">Block</button>
+            <button type="button" class="btn btn-success" id="unblock" onclick="UNBlockUser(@item.Id)">unBlock</button>
+            }
+                <button type="button" class="btn btn-danger" id="delete" onclick="DeleteUser(@item.Id)">Delete</button>
+            </td>
+        </tr>
+    }
+
+</table>
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+
+
+    <script>
+        function DeleteUser(id) {
+            if (confirm("Are you sure?!")) {
+                $.ajax({
+                    type: "GET",
+                    url: "/Admin/DeleteUser/" + id,
+                    success: function (response) {
+
+                        if (response.result == 1) {
+                            $("#record_" + id).remove();
+                        }
+                        else {
+                            alert("Can't Delete Account")
+                        }
+                    }
+                })
+            }
+        }
+
+        function BlockUser(id) {
+            if (confirm("Are you sure?!")) {
+                $.ajax({
+                    type: "GET",
+                    url: "/Admin/BlockUser/" + id,
+                    success: function (response) {
+
+                        if (response.result == 1) {
+                            $("#block").hide();
+                            $("#unblock").show();
+                        }
+                        else {
+                            alert("Can't Block Account")
+                        }
+                    }
+                })
+            }
+        }
+
+        function UNBlockUser(id) {
+            if (confirm("Are you sure?!")) {
+                $.ajax({
+                    type: "GET",
+                    url: "/Admin/UnBlockUser/" + id,
+                    success: function (response) {
+
+                        if (response.result == 1) {
+                            $("#unblock").hide();
+                            $("#block").show();
+                        }
+                        else {
+                            alert("Can't unBlock Account")
+                        }
+                    }
+                })
+            }
+        }
+    </script>
+
+
+}
