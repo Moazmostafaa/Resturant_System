@@ -93,6 +93,22 @@ namespace Resturant_System.Controllers
                 return Json(new { result = 1 }, JsonRequestBehavior.AllowGet);
             }
         }
+        //GET: Admin/UnBlockUser/id
+        public ActionResult UnBlockUser(int id)
+        {
+            int ids = Convert.ToInt32(Session["Id"]);
+            if (ids == null || Session["Id"] == null)
+            {
+                return RedirectToAction("Login", "Account");
+            }
+            else
+            {
+                User user = db.Users.Single(x => x.Id == id);
+                user.blocked = true;
+                db.SaveChanges();
+                return Json(new { result = 1 }, JsonRequestBehavior.AllowGet);
+            }
+        }
 
 
     }
