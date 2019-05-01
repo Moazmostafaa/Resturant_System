@@ -109,7 +109,40 @@ namespace Resturant_System.Controllers
                 return Json(new { result = 1 }, JsonRequestBehavior.AllowGet);
             }
         }
+         public ActionResult Edit(int? id)
+        {
+            int ids = Convert.ToInt32(Session["Id"]);
+            if (ids == null || Session["Id"] == null)
+            {
+                return RedirectToAction("Login", "Account");
+            }
+            else
+            {
+                Items items = db.Items.Find(id);
+                if (items == null)
+                {
+                    return HttpNotFound();
+                }
+                ViewBag.CategoryID = new SelectList(db.Categories, "Id", "Name", items.CategoryID);
+                return View(items);
+            }
+        }
 
+        // POST: Admin/Edit/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Edit(Items items)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Entry(items).State = EntityState.Modified;
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            ViewBag.CategoryID = new SelectList(db.Categories, "Id", "Name", items.CategoryID);
+            return View(items);
+        }
 
+        
     }
 }
