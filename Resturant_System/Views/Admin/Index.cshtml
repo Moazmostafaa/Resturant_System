@@ -44,6 +44,26 @@
 @section Scripts{
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/jqueryval")
+     <script>
+        function DeleteItem(id) {
+            if (confirm("Are you sure?!")) {
+                $.ajax({
+                    type: "GET",
+                    url: "/Admin/Delete/" + id,
+                    success: function (response) {
+
+                        if (response.result == 1) {
+                            $("#record_" + id).remove();
+                        }
+                        else {
+                            alert("Can't Delete Account")
+                        }
+                    }
+                })
+            }
+        }
+    </script>
+
 
 
 }
